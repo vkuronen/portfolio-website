@@ -60,11 +60,6 @@ export const projects = [
 // src: URL or path to your file (e.g. "/images/mything.gif" or a YouTube embed URL)
 // caption: optional short label
 export const sandboxItems = [
-  { type: 'gif', src: '/sandbox_items/Bert_-_Turnaround.gif', scale: 1.01 },
-  { type: 'gif', src: '/sandbox_items/Bum_OG.gif', objectPosition: 'center calc(50% + 1px)', scale: 1.01 },
-  { type: 'gif', src: '/sandbox_items/Demure_OG.gif', scale: 1.01 },
-  { type: 'video', src: '/sandbox_items/Dream 13.mp4', scale: 1.01 },
-  { type: 'video', src: '/sandbox_items/Face Card.mp4', scale: 1.01 },
   { type: 'image', src: '/sandbox_items/Afro_New.png', scale: 1.01 },
   { type: 'image', src: '/sandbox_items/Creep_OG.png', scale: 1.01 },
   { type: 'image', src: '/sandbox_items/Daniel_OG.png', scale: 1.01 },
@@ -81,9 +76,6 @@ export const sandboxItems = [
   { type: 'image', src: '/sandbox_items/Untitled_Artwork.png', scale: 1.01 },
   { type: 'image', src: '/sandbox_items/Wizard_OG.png', scale: 1.01 },
   { type: 'image', src: '/sandbox_items/Wok_OG.png', scale: 1.01 },
-  { type: 'image', src: '/sandbox_items/1.png', scale: 1.01 },
-  { type: 'image', src: '/sandbox_items/2.png', scale: 1.01 },
-  { type: 'image', src: '/sandbox_items/3.png', scale: 1.01 },
   { type: 'image', src: '/sandbox_items/Mahsa.png', scale: 1.01 },
   { type: 'image', src: '/sandbox_items/Me.png', scale: 1.01 },
   { type: 'image', src: '/sandbox_items/Moa.png', scale: 1.01 },
