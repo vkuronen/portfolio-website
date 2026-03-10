@@ -61,7 +61,7 @@ export default function About() {
               My name is Victor Kuronen, a.k.a. Vic Kuro, a.k.a. Bukloso.
             </p>
             <p style={{ fontSize: '1rem', color: 'var(--white)', lineHeight: 1.9, marginBottom: '1rem' }}>
-              I’m a motion designer and multidisciplinary artist working across animation, visual art, and music production. My work tends to lean toward playful, strange, and slightly surreal visuals. My creative journey began when I hit my head really hard as a kid. I'm always down to learn new things and I'm never scared of a challenge. I look forward to bringing fresh ideas to the table and creating some dope shit in the future. I am also left-handed.
+              I’m an aspiring motion designer and multidisciplinary artist working across animation, visual art, and music production. My work tends to lean toward playful, strange, and slightly surreal visuals. My creative journey began when I hit my head really hard as a kid. I'm always down to learn new things and I'm never scared of a challenge. I look forward to bringing fresh ideas to the table and creating some dope shit in the future. I am also left-handed.
             </p>
           </div>
         </div>
