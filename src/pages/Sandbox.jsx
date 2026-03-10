@@ -35,7 +35,7 @@ export default function Sandbox() {
             transition={{ delay: 0.2, duration: 0.6 }}
             style={{ color: 'var(--white)', opacity: 0.5, marginTop: '1rem', fontSize: '1rem' }}
           >
-            Random stuff that didn't make the main page.
+            A page for my random character designs.
           </motion.p>
         </div>
 
