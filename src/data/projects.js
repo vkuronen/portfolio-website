@@ -16,7 +16,7 @@ export const projects = [
   {
     id: 2,
     title: "Jindie - ພຽງເທົ່ານີ້ 'This Much'",
-    description: "Animated music video for JINDIE’s ‘This Much’, created in collaboration with Tananya Saengrudee.",
+    description: "Animated music video for JINDIE’s ‘This Much’, created in collaboration with Tananya Saengrudee who handled the background art.",
     category: "Music Video",
     year: "2025",
     type: "video",
@@ -29,7 +29,7 @@ export const projects = [
   {
     id: 3,
     title: "Baychimo - Scion Raider (Visualizer)",
-    description: "Music visualizer for ‘Scion Raider’ by Baychimo, featuring low-poly 3D environments and character animation inspired by PS1-era game visuals.",
+    description: "A music visualizer I created for ‘Scion Raider’ by Baychimo, featuring low-poly 3D environments and character animation inspired by PS1-era game visuals.",
     category: "Visualizer",
     year: "2025",
     type: "video",
