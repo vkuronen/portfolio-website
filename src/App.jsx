@@ -6,6 +6,7 @@ import Home from './pages/Home'
 import Project from './pages/Project'
 import About from './pages/About'
 import Contact from './pages/Contact'
+import Sandbox from './pages/Sandbox'
 
 export default function App() {
   const location = useLocation()
@@ -20,6 +21,7 @@ export default function App() {
           <Route path="/project/:id" element={<Project />} />
           <Route path="/about" element={<About />} />
           <Route path="/contact" element={<Contact />} />
+          <Route path="/sandbox" element={<Sandbox />} />
         </Routes>
       </AnimatePresence>
     </>

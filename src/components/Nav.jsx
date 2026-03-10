@@ -37,6 +37,7 @@ export default function Nav() {
 
   const links = [
     { to: '/', label: 'Work' },
+    { to: '/sandbox', label: 'Sandbox' },
     { to: '/about', label: 'About' },
     { to: '/contact', label: 'Contact' },
   ]
