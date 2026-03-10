@@ -60,29 +60,6 @@ export const projects = [
 // src: URL or path to your file (e.g. "/images/mything.gif" or a YouTube embed URL)
 // caption: optional short label
 export const sandboxItems = [
-  { type: 'image', src: '/sandbox_items/Afro_New.png', scale: 1.01 },
-  { type: 'image', src: '/sandbox_items/Creep_OG.png', scale: 1.01 },
-  { type: 'image', src: '/sandbox_items/Daniel_OG.png', scale: 1.01 },
-  { type: 'image', src: '/sandbox_items/Dikhead_New.png', scale: 1.01 },
-  { type: 'image', src: '/sandbox_items/Edgelord_New.png', scale: 1.01 },
-  { type: 'image', src: '/sandbox_items/Fishman_OG.png', scale: 1.01 },
-  { type: 'image', src: '/sandbox_items/Girl_OG.png', scale: 1.01 },
-  { type: 'image', src: '/sandbox_items/Gnome_OG.png', scale: 1.01 },
-  { type: 'image', src: '/sandbox_items/Ice_Cream_Man_OG.png', scale: 1.01 },
-  { type: 'image', src: '/sandbox_items/Otaku_New.png', scale: 1.01 },
-  { type: 'image', src: '/sandbox_items/Red_Girl_OG.png', scale: 1.01 },
-  { type: 'image', src: '/sandbox_items/She_Saw_OG.png', scale: 1.01 },
-  { type: 'image', src: '/sandbox_items/Untitled_Artwork 1.png', scale: 1.01 },
-  { type: 'image', src: '/sandbox_items/Untitled_Artwork.png', scale: 1.01 },
-  { type: 'image', src: '/sandbox_items/Wizard_OG.png', scale: 1.01 },
-  { type: 'image', src: '/sandbox_items/Wok_OG.png', scale: 1.01 },
-  { type: 'image', src: '/sandbox_items/Mahsa.png', scale: 1.01 },
-  { type: 'image', src: '/sandbox_items/Me.png', scale: 1.01 },
-  { type: 'image', src: '/sandbox_items/Moa.png', scale: 1.01 },
-  { type: 'image', src: '/sandbox_items/Mona.png', scale: 1.01 },
-  { type: 'image', src: '/sandbox_items/Nati.png', scale: 1.01 },
-  { type: 'image', src: '/sandbox_items/Patrick.png', scale: 1.01 },
-  { type: 'image', src: '/sandbox_items/Rebecca.png', scale: 1.01 },
 ]
 
 // ─── YOUR INFO ──────────────────────────────────────────────────────────────
